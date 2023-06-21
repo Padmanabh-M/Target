@@ -1,0 +1,10 @@
+sphinx_test
+===========
+
+.. toctree::
+   :maxdepth: 4
+
+   conf
+   module1
+   module2
+   module3
