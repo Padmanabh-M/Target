@@ -1,8 +1,0 @@
-AutoDocAction
-=============
-
-.. toctree::
-   :maxdepth: 4
-
-   module1
-   module3
